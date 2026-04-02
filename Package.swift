@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "MimeEmailParser",
     platforms: [
-        .macOS(.v10_15),
+        .macOS(.v10_14),
         .iOS(.v11),
         .watchOS(.v5),
         .tvOS(.v11)
